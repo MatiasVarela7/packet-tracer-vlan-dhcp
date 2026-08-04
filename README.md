@@ -3,7 +3,7 @@ Topología de Red Corporativa con VLANs y DHCP
 Este es un proyecto de simulación hecho en Cisco Packet Tracer que implementa una red segmentada para una empresa mediana.
 
 ## 📸 Topología de la Red
-![Topología](topologia.png))
+![Topología](topologia.png)
 
 ## 🛠️ Características Implementadas
 * **Segmentación por VLANs:** Separación de tráfico para 4 departamentos (Administración, IT, Ventas, RRHH).
