@@ -1,6 +1,6 @@
 Topología de Red Corporativa con VLANs y DHCP
 
-Este es un proyecto de simulación hecho en Cisco Packet Tracer que implementa una red segmentada para una empresa mediana.
+Este es un proyecto de simulación hecho en Cisco Packet Tracer que implementa una red simple segmentada para una empresa.
 
 ## 📸 Topología de la Red
 ![Topología](topologia.png)
