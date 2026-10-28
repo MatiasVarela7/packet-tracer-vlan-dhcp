@@ -1,4 +1,4 @@
-Topología de Red Corporativa con VLANs y DHCP
+Topología de Red Corporativa con VLANs, DHCP Y DNS
 
 Este es un proyecto que hice en Cisco Packet Tracer que implementa una red simple segmentada para una empresa.
 
